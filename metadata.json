@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark — Vehicle Management System",
+  "description": "Interactive DBMS showcase and operations dashboard for automated parking slot allocation, vehicle entry/exit tracking, 3NF schema design, and revenue reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
